@@ -1,4 +1,4 @@
-# Plugin-React-UserChat
+# Images plugin
 
 This plugin is used to support Images around a PulseTile ReactJS based application.
 
